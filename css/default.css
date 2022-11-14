@@ -30,7 +30,7 @@ body {
   background: var(--color-neutral-light-gray);
   margin: 0;
   padding: 1.8rem;
-  height: 100vh;
+  min-height: 100vh;
 }
 
 main {
